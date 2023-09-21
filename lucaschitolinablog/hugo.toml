@@ -1,0 +1,5 @@
+baseURL = 'https://lucasjantschchitolina.github.io'
+languageCode = 'pt-br'
+title = 'Lucas Chitolina Blog'
+
+theme = 'hugo-paper'

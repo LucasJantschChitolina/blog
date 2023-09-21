@@ -1,0 +1,7 @@
+[submodule "lucaschitolinablog/public"]
+	path = lucaschitolinablog/public
+	url = https://github.com/LucasJantschChitolina/lucasjantschchitolina.github.io.git
+	branch = main
+[submodule "lucaschitolinablog/lucaschitolinablog/themes/hugo-paper"]
+	path = lucaschitolinablog/lucaschitolinablog/themes/hugo-paper
+	url = https://github.com/nanxiaobei/hugo-paper.git
